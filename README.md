@@ -4,8 +4,10 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenosoriani_/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
+<p align="left">
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M2M211NzJ0ajZ2dTk1c3Z4MmVzMGhnNWg1bHNnbDYzdDRobHZmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6huhKzcdp02onx5Afu/giphy.gif">
+</p>
 
-![Soriani GitHub stats](https://github-readme-stats.vercel.app/api?username=brenodev2007&show_icons=true&theme=tokyonight)
 
 
 ### Tecnologias que uso:
