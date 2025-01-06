@@ -1,6 +1,10 @@
 # Olá, eu sou o Breno Soriani 😁
 
-[Meu Portfólio](https://portiflio1.vercel.app/)
+<p align="center">
+  <a href="https://portiflio1.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/brenosoriani_/" target="_blank">
