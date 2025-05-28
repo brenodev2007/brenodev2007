@@ -59,4 +59,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e sempre busco aprend
 
 ---
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
