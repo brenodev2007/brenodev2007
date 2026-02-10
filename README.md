@@ -47,17 +47,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e sempre busco aprend
 
 ---
 
-## 🏅 Certificações:
 
-- **Certificação Java Developer** - Udemy, DIO
-- **Formação em Engenharia de Softwere** - ALura  
-- **Certificação em Banco de Dados SQL e NoSQL** - Digital Innovation One  
-- **Certificação Spring Boot Avançado** -Digital Innovation One 
-- **Certificação Git e Controle de Versões** - Coursera  
-- **Certificação de Desenvolvimento Web Completo** - Udemy
-- **Certificação em Programação POO em PHP** - Alura
-
----
 
  <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
